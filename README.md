@@ -5,7 +5,7 @@ This repository contains my work on Low Level Design(LLD) to improve object orie
 # Design Patterns
 
 <li>
-  <ol> <b> Creational Design Pattern 
+  <ol> <b> Creational Design Pattern </b>
     <li>
       <ol> Singleton  </ol>
       <ol> Builder </ol>
