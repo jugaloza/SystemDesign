@@ -6,12 +6,5 @@ This repository contains my work on Low Level Design(LLD) to improve object orie
 
 <li>
   <ol> <b> Creational Design Pattern </b>
-    <li>
-      <ol> Singleton  </ol>
-      <ol> Builder </ol>
-      <ol> Factory </ol>
-      <ol> Abstract Factory </ol>
-      <ol> Prototype </ol>
-    </li>
   </ol>
 </li>
